@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
+    <color name="purple_500">#8DC4DD</color>
+    <color name="purple_700">#8DC4DD</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
 <!--    <color name="black">#FF000000</color>-->
@@ -18,13 +18,13 @@
     <color name="txt_color">#1f2833</color>
     <color name="active_color">#dd3e3e</color>
     <color name="inactive_color">#a0a0a0</color>
-    <color name="myfav">#007aff</color>
+    <color name="myfav">#8DC4DD</color>
     <color name="myPink">#FF74BE</color>
 
     <color name="colorMainBackground">#F4F5FA</color>   //materialColor
     <color name="colorCardGreen">#00B7B7</color>   //materialColor
     <color name="colorWhite">#ffffff</color>
-    <color name="colorBlueWaves">#0099ff</color>
+    <color name="colorBlueWaves">#8DC4DD</color>
     <color name="colorGiok">#11DAAD</color>
     <color name="colorRedPastel">#f56a79</color>
     <color name="colorBase">#00B0FF</color>
@@ -34,7 +34,7 @@
     <color name="bootstrapRed">#d9534f</color>
     <color name="colorBlack">#000</color>
     <color name="colorShadow">#84868B</color>
-    <color name="colorNeoBlue">#1A8DFF</color>
+    <color name="colorNeoBlue">#8DC4DD</color>
     <color name="colorPurplish">#F5F6FC</color>
     <color name="colorGreen">#17B241</color>
     <color name="colorTextSecondary">#A8B2C8</color>
@@ -42,7 +42,7 @@
     <color name="colorOrangePrice">#f08a5d</color>
 
     <color name="address">#2F7092</color>
-    <color name="followers">#0D5D98</color>
+    <color name="followers">#8DC4DD</color>
     <color name="headings">#3797CF</color>
     <color name="solidCircle">#AAFFFFFF</color>
     <color name="circleBorder">#50FFFFFF</color>

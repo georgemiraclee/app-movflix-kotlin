@@ -36,7 +36,7 @@
             android:id="@+id/label_movie_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:text="Film Keren"
+            tools:text="Avengers 2"
             android:textStyle="bold"
             android:fontFamily="@font/sf_pro_display_regular"
             android:textColor="@color/colorWhite"
@@ -45,7 +45,7 @@
             android:id="@+id/label_movie_director"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:text="Miracle Production"
+            tools:text="Marvel Production"
             android:fontFamily="@font/montserrat_regular"
             android:textColor="@color/colorWhite"
             android:textSize="13sp"/>
